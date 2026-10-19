@@ -15,6 +15,6 @@
             android:value="82"/>
         <meta-data
             android:name="xposedscope"
-            android:value="com.xposed.scope"/>
+            android:value="com.rockstargames.gtavc.de;com.rockstargames.gta3.de;com.rockstargames.bully;com.rockstargames.gtalcs;com.rockstargames.gtactw"/>
     </application>
 </manifest>
